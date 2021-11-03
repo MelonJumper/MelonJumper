@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MelonJumper
 - 👀 I’m interested in Software deveopement and health information systems
-- 🌱 I’m currently learning more about C++, data science, application developement, and health information systems
+- 🌱 I’m currently learning more about C++, data science, application developement, health information systems, and web developement
 - 💞️ I’m looking to collaborate on the school project I'm working on with my team as well as anything interesting 
         using C++, html/css, js, python, ASP.NET, PhP, or even something new
 - 📫 How to reach me ... lydiarose23@yahoo.com
